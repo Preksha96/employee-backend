@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "preksha",
+      "password": "password123"
+    }
+  ],
+  "employees": [
+    {
+      "name": "Jane Smith",
+      "position": "Product Manager",
+      "id": "2"
+    },
+    {
+      "name": "shanq",
+      "position": "Admin",
+      "id": "65a6"
+    },
+    {
+      "name": "preksha",
+      "position": "poooq",
+      "id": "3727"
+    },
+    {
+      "id": "2a45",
+      "name": "preksha",
+      "position": "local"
+    }
+  ]
+}
