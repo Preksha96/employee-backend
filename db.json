@@ -1,5 +1,13 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1740899749320,
+      "username": "admin",
+      "email": "preksha@gmail.com",
+      "password": "$2b$10$yxOrQ4n8OE6KMMbQJrFxbeQkGxLnl10xlD6Kxkcd05IqiILJICJIO"
+    },
+    null
+  ],
   "employees": [
     {
       "name": "Jane Smith",
@@ -13,13 +21,8 @@
     },
     {
       "name": "preksha",
-      "position": "poooq",
+      "position": "swppp",
       "id": "3727"
-    },
-    {
-      "id": "2a45",
-      "name": "preksha",
-      "position": "local"
     }
   ]
 }
